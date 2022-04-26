@@ -2,7 +2,7 @@ package account
 
 import (
 	"encoding/json"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/network"
+	"github.com/pinestreetlabs/nemean/network"
 )
 
 // Account encompasses an Aleo Account.

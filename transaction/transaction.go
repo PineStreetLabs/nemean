@@ -1,7 +1,7 @@
 package transaction
 
 import (
-	"github.com/pinestreetlabs/aleo-wallet-sdk/account"
+	"github.com/pinestreetlabs/nemean/account"
 )
 
 // NewCoinbaseTransaction crafts a transaction that can be used for coinbase rewards.

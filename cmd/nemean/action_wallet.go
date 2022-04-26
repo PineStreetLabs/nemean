@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/account"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/network"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/record"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/transaction"
+	"github.com/pinestreetlabs/nemean/account"
+	"github.com/pinestreetlabs/nemean/network"
+	"github.com/pinestreetlabs/nemean/record"
+	"github.com/pinestreetlabs/nemean/transaction"
 	"github.com/urfave/cli"
 )
 

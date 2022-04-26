@@ -10,7 +10,7 @@ package record
 import "C"
 import (
 	"fmt"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/account"
+	"github.com/pinestreetlabs/nemean/account"
 	"unsafe"
 )
 

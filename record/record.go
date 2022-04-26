@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/account"
+	"github.com/pinestreetlabs/nemean/account"
 )
 
 // Record is a fundamental data structure for encoding user assets and application state.

@@ -11,7 +11,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/account"
+	"github.com/pinestreetlabs/nemean/account"
 	"unsafe"
 )
 
