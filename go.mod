@@ -1,4 +1,4 @@
-module github.com/pinestreetlabs/aleo-wallet-sdk
+module github.com/pinestreetlabs/nemean
 
 go 1.16
 

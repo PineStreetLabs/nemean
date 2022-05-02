@@ -2,7 +2,7 @@ package main
 
 import (
 	"errors"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/rpc"
+	"github.com/pinestreetlabs/nemean/rpc"
 	"github.com/urfave/cli"
 	"log"
 	"os"

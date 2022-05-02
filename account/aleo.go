@@ -14,7 +14,7 @@ To avoid upstream changes and re-implementing the snarkvm-curves crate in Go, we
 import "C"
 import (
 	"fmt"
-	"github.com/pinestreetlabs/aleo-wallet-sdk/network"
+	"github.com/pinestreetlabs/nemean/network"
 	"unsafe"
 )
 

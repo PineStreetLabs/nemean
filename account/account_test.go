@@ -1,7 +1,7 @@
 package account
 
 import (
-	"github.com/pinestreetlabs/aleo-wallet-sdk/network"
+	"github.com/pinestreetlabs/nemean/network"
 	"testing"
 )
 
